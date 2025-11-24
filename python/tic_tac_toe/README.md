@@ -6,7 +6,7 @@ A simple terminal-based Tic Tac Toe game written in Python, designed in a proced
 
 ```
 python_tic_tac_toe/
-└── main.py
+└── tictactoe.py
 ```
 
 ## Example Gameplay
@@ -135,5 +135,5 @@ python3 --version
 ### 2. Run the game
 
 ```bash
-python main.py
+python tictactoe.py
 ```

@@ -6,8 +6,8 @@ A simple terminal-based Tic Tac Toe game written in C++, designed in a procedura
 
 ```
 tic_tac_toe/
-├── main.cpp
-└── tic_tac_toe.out
+├── tictactoe.cpp
+└── tictactoe.out
 ```
 
 ## Example Gameplay
@@ -94,11 +94,11 @@ Game over.
 Make sure you have a C++17 or newer compiler (e.g., `g++`, `clang++`).
 
 ```bash
-g++ -std=c++17 main.cpp -o tic_tac_toe.out
+g++ -std=c++17 tictactoe.cpp -o tictactoe.out
 ```
 
 ### 2. Run the executable
 
 ```bash
-./tic_tac_toe.out
+./tictactoe.out
 ```

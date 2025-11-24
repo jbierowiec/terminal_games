@@ -8,9 +8,11 @@ This repository contains interactive games playable directly in the terminal, wr
 Hangman/
 ├── c++/
 │   ├── hangman
+│   ├── rock_paper_scissors
 │   └── tic_tac_toe
 └── python/
     ├── hangman
+    ├── rock_paper_scissors
     └── tic_tac_toe
 ```
 
